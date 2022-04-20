@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Some Favorite Recipes</title>
+    <title>Salt &amp; Pepper</title>
     <link href="https://johnserra.github.io/some-favorite-recipes/feed.xml" rel="self" />
     <link href="https://johnserra.github.io/some-favorite-recipes" />
     <updated>2022-04-20T14:50:59+03:00</updated>
@@ -20,7 +20,7 @@
         <updated>2022-04-20T14:50:59+03:00</updated>
             <summary>
                 <![CDATA[
-                    One of the four Roman pasta dishes that is quick, simple, and yet delicious to make. I like the original recipe prepared with guanciale (or pancetta), but I live in Istanbul, Turkey where they are hard to come by. So, I have modified the recipe&hellip;
+                    One of the four Roman pasta dishes that is quick, simple, and yet delicious to make. I like the original&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -42,12 +42,12 @@
         <updated>2022-04-20T14:42:28+03:00</updated>
             <summary>
                 <![CDATA[
-                    Spaghetti Alle Vongole I cooked my last Birthday :-) May 2021 Spaghetti Alle Vongole is one of my favorite dishes. I first tasted this dish back in the days when I was in Crotone while working on a yacht. It is such a simple dish,&hellip;
+                    Spaghetti Alle Vongole I cooked my last Birthday :-) May 2021 Spaghetti Alle Vongole is one of my favorite dishes.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://johnserra.github.io/some-favorite-recipes/media/posts/1/Spaghetti_Alle_Vongole.jpg" sizes="100vw" srcset="https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-xs.jpg 300w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-sm.jpg 480w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-md.jpg 768w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-lg.jpg 1024w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-xl.jpg 1360w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-2xl.jpg 1600w"  alt="Spaghetti Alle Vongole" width="415" height="280"></figure>
+                <figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://johnserra.github.io/some-favorite-recipes/media/posts/1/Spaghetti_Alle_Vongole.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-xs.jpg 300w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-sm.jpg 480w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-md.jpg 768w"  alt="Spaghetti Alle Vongole" width="415" height="280"></figure>
 <figcaption ><em>Spaghetti Alle Vongole I cooked my last Birthday :-) May 2021</em></figcaption>
 </figure>
 <p>Spaghetti Alle Vongole is one of my favorite dishes. I first tasted this dish back in the days when I was in Crotone while working on a yacht. It is such a simple dish, yet very elegant, and tastes wonderfully like the sea.</p>
