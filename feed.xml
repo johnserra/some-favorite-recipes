@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Some Favorite Recipes</title>
+    <link href="https://johnserra.github.io/some-favorite-recipes/feed.xml" rel="self" />
+    <link href="https://johnserra.github.io/some-favorite-recipes" />
+    <updated>2022-04-20T14:50:59+03:00</updated>
+    <author>
+        <name>John Serra</name>
+    </author>
+    <id>https://johnserra.github.io/some-favorite-recipes</id>
+
+    <entry>
+        <title>Spaghetti Alla Carbonara</title>
+        <author>
+            <name>John Serra</name>
+        </author>
+        <link href="https://johnserra.github.io/some-favorite-recipes/spaghetti-alla-carbonara.html"/>
+        <id>https://johnserra.github.io/some-favorite-recipes/spaghetti-alla-carbonara.html</id>
+
+        <updated>2022-04-20T14:50:59+03:00</updated>
+            <summary>
+                <![CDATA[
+                    One of the four Roman pasta dishes that is quick, simple, and yet delicious to make. I like the original recipe prepared with guanciale (or pancetta), but I live in Istanbul, Turkey where they are hard to come by. So, I have modified the recipe&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>One of the four Roman pasta dishes that is quick, simple, and yet delicious to make. I like the original recipe prepared with guanciale (or pancetta), but I live in Istanbul, Turkey where they are hard to come by. So, I have modified the recipe to use Turkish Kavurma which is braised beef and lamb with lamb tail fat packed in a casing (non edible) like sausage.</p>
+<h2>Ingredients</h2>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Spaghetti Alle Vongole</title>
+        <author>
+            <name>John Serra</name>
+        </author>
+        <link href="https://johnserra.github.io/some-favorite-recipes/spaghetti-alle-vongole.html"/>
+        <id>https://johnserra.github.io/some-favorite-recipes/spaghetti-alle-vongole.html</id>
+
+        <updated>2022-04-20T14:42:28+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Spaghetti Alle Vongole I cooked my last Birthday :-) May 2021 Spaghetti Alle Vongole is one of my favorite dishes. I first tasted this dish back in the days when I was in Crotone while working on a yacht. It is such a simple dish,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://johnserra.github.io/some-favorite-recipes/media/posts/1/Spaghetti_Alle_Vongole.jpg" sizes="100vw" srcset="https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-xs.jpg 300w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-sm.jpg 480w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-md.jpg 768w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-lg.jpg 1024w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-xl.jpg 1360w ,https://johnserra.github.io/some-favorite-recipes/media/posts/1/responsive/Spaghetti_Alle_Vongole-2xl.jpg 1600w"  alt="Spaghetti Alle Vongole" width="415" height="280"></figure>
+<figcaption ><em>Spaghetti Alle Vongole I cooked my last Birthday :-) May 2021</em></figcaption>
+</figure>
+<p>Spaghetti Alle Vongole is one of my favorite dishes. I first tasted this dish back in the days when I was in Crotone while working on a yacht. It is such a simple dish, yet very elegant, and tastes wonderfully like the sea.</p>
+<h2>Ingredients</h2>
+<ul>
+<li>500gr. Spaghetti</li>
+<li>500gr. Vongole</li>
+<li>Olive Oil</li>
+<li>2-3 Cloves of Garlic</li>
+<li>Rock Salt</li>
+<li>Red Pepper Flakes</li>
+<li>1 Glass Dry White Wine</li>
+<li>A Bunch of Parsley</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+<li>Boil plenty of water in a large pot.</li>
+<li>Heat a generous ammount of olive oil in a pan.</li>
+<li>Add the whole cloves of garlic in the heated olive oil.</li>
+<li>Remove the cloves once they are nicely browned. Put them aside...</li>
+<li>Add the vongole to the pan and stir them gently for about 15-20 seconds.</li>
+<li>Add the glass of white wine and let it simmer.</li>
+<li>Add a pinch of salt to the boiling water. Don't over do it. The fresh vongole will be salty from the sea.</li>
+<li>Let vongole simmer until they begin to open. If they don't, they are not good to eat. Send to /dev/null :(</li>
+<li>Add the spaghetti to the boiling water. Follow instructions on the package for time. I generally go for 6 or 7 minutes.</li>
+<li>I strain the pasta usually a little early. I keep some of the water and then usually don't use it.</li>
+<li>Dump the pasta over the vongole and mix it in gently. It will finish to cook... and soak up the delicious broth.</li>
+<li>One the spaghetti are nice and shiny and have absorbed the sauce, sprinkle roughly chopped parsley over it and mix in.</li>
+<li>Buon Apetito!</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

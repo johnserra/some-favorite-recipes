@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://johnserra.github.io/some-favorite-recipes/sitemap.xml
